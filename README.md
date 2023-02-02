@@ -1,4 +1,3 @@
-# Space-website
 # Frontend Mentor - Space tourism website solution
 
 This is a solution to the [Space tourism website challenge on Frontend Mentor][1]. Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
@@ -50,13 +49,12 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML5
+- CSS 
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
 - [React][16] - JS library
-- [Next.js][17] - React framework
 - [Styled Components][18] - For styles
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
@@ -98,7 +96,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 - Website - [Add your name here][22]
 - Frontend Mentor - [@yourusername][23]
-- Twitter - [@yourusername][24]
+- Twitter - [@yourusername][24]s
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
